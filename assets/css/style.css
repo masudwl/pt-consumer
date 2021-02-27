@@ -66,7 +66,7 @@ nav ul li a:hover{color: #de0024;}
         border-radius: 50%;
         font-size: 16px;
         background-color: white;
-        background-image: url(assets/img/srch.png);
+        background-image: url(/img/srch.png);
         background-position: center;
         background-size: 20px;
         background-repeat: no-repeat;
